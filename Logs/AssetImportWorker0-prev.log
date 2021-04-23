@@ -1,0 +1,172 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'ru' Physical Memory: 8174 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/danya/OneDrive/Рабочий стол/Обучение/Курс/Введение в Unity/LearnProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53097
+Successfully changed project path to: C:/Users/danya/OneDrive/Рабочий стол/Обучение/Курс/Введение в Unity/LearnProject
+C:/Users/danya/OneDrive/Рабочий стол/Обучение/Курс/Введение в Unity/LearnProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.03 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/danya/OneDrive/Рабочий стол/Обучение/Курс/Введение в Unity/LearnProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56212
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004607 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 41.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.731 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001609 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.367 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.8 MB.
+System memory in use after: 70.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 2.420600 ms (FindLiveObjects: 0.293900 ms CreateObjectMapping: 0.070300 ms MarkObjects: 1.950400 ms  DeleteObjects: 0.104900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/My Prefabs/Полноценная дверь.prefab
+  artifactKey: Guid(e87e0768fff332b41afe4156fe96bce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Prefabs/Полноценная дверь.prefab using Guid(e87e0768fff332b41afe4156fe96bce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e866b4581fe0ed0eadd867d76dc63620') in 0.209095 seconds
+  Import took 0.215428 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 51.4 MB.
+System memory in use after: 51.5 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1587.
+Total: 2.877500 ms (FindLiveObjects: 0.257400 ms CreateObjectMapping: 0.073100 ms MarkObjects: 2.479800 ms  DeleteObjects: 0.065100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001504 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.360 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 73.8 MB.
+System memory in use after: 73.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1590.
+Total: 2.049400 ms (FindLiveObjects: 0.217500 ms CreateObjectMapping: 0.063200 ms MarkObjects: 1.700200 ms  DeleteObjects: 0.067400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1039.714312 seconds.
+  path: Assets/My Prefabs/Стена.prefab
+  artifactKey: Guid(2b3b83d7df3d3b54c8082f83a6e91226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Prefabs/Стена.prefab using Guid(2b3b83d7df3d3b54c8082f83a6e91226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d38affb1a00f8dbd988702de92030db') in 0.086658 seconds
+  Import took 0.095505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.182698 seconds.
+  path: Assets/Всякая всячина/Sword_1/Materials
+  artifactKey: Guid(af6fe4825e10e7048a3fdd1d129a1ed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Всякая всячина/Sword_1/Materials using Guid(af6fe4825e10e7048a3fdd1d129a1ed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed8a7ff015d62a3a7b0a64c8bb7e4dcb') in 0.004142 seconds
+  Import took 0.010400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057073 seconds.
+  path: Assets/Всякая всячина/Sword_1/Materials/M_Sword_1.mat
+  artifactKey: Guid(054e68e3c128c034aa26d71996a0594c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Всякая всячина/Sword_1/Materials/M_Sword_1.mat using Guid(054e68e3c128c034aa26d71996a0594c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b55486ba54591e276fcc5323fd3b34d') in 0.491734 seconds
+  Import took 0.511576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.262337 seconds.
+  path: Assets/Всякая всячина/Sword_1/Sword.unity
+  artifactKey: Guid(c95e202d176fe5845916534890c7dd80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Всякая всячина/Sword_1/Sword.unity using Guid(c95e202d176fe5845916534890c7dd80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84d34aa4a71983e32a2369cb2b4c32a') in 0.010881 seconds
+  Import took 0.017085 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001634 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.724 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.1 MB.
+System memory in use after: 74.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1628.
+Total: 2.236100 ms (FindLiveObjects: 0.239500 ms CreateObjectMapping: 0.061600 ms MarkObjects: 1.829700 ms  DeleteObjects: 0.104000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
